@@ -19,4 +19,5 @@ public class ProdutoModelo {
     private Long condigo;
     private String nome;
     private String marca;
+    private Number price;
 }
